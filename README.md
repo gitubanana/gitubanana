@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @gitubanana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Taeyang Park
+- 🌱 I’m currently studying in 42Seoul, working in 
+- 👀 I’m interested in C, C++, Algorithm, Linux
+- 📫 How to reach me ... ptyolo666@gmail.com
 
-<!---
-gitubanana/gitubanana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gitubanana)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kiwiki)](https://solved.ac/kiwiki)
+
