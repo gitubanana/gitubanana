@@ -4,7 +4,7 @@
 - 📫 How to reach me ... ptyolo666@gmail.com
 
 #### 자주 사용하는 언어
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitubanana&layout=compact&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitubanana&layout=compact&exclude_repo=Problem-Solving&langs_count=8)
 
 #### GitHub 통계
 [![gitubanana's github stats](https://github-readme-stats.vercel.app/api?username=gitubanana)](https://github.com/anuraghazra/github-readme-stats)
