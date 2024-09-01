@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taeyang Park
-- 🌱 I’m currently studying in 42Seoul, working in 
+- 🌱 I’m currently studying in 42Seoul.
 - 👀 I’m interested in C, C++, Algorithm, Linux
 - 📫 How to reach me ... ptyolo666@gmail.com
 
