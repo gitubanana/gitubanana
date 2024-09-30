@@ -1,5 +1,6 @@
+
 - 👋 Hi, I’m Taeyang Park
-- 🌱 I’m currently studying in 42Seoul.
+- [42 Seoul](https://42seoul.kr/seoul42/main/view) 7기 <sub>(22.07 ~ 24.07)</sub>
 - 👀 I’m interested in C, C++, Algorithm, Linux
 - 📫 How to reach me ... ptyolo666@gmail.com
 
