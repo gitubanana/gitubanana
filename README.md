@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Taeyang Park
 - [42 Seoul](https://42seoul.kr/seoul42/main/view) 7기 <sub>(22.07 ~ 24.07)</sub>
-- 👀 I’m interested in C, C++, Algorithm, Linux
+- 👀 I’m interested in C, C++, Java, Web, Algorithm 
 - 📫 How to reach me ... ptyolo666@gmail.com
 
 #### Most Used Languages
