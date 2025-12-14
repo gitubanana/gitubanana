@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m Taeyang Park
-- [42 Seoul](https://42seoul.kr/seoul42/main/view) 7기 <sub>(22.07 ~ 24.07)</sub>
+- [42 Seoul](https://42seoul.kr/seoul42/main/view) 7th <sub>(22.07 ~ 24.07)</sub>
+- 독학학위제 컴퓨터공학과 4.3/4.3 A+  <sub>(25.01 ~ 25.12)</sub>
 - 👀 I’m interested in C, C++, Java, Web, Algorithm 
 - 📫 How to reach me ... pple.bhappy@gmail.com
 
